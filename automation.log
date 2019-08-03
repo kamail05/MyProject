@@ -1,0 +1,499 @@
+07/17/2019 12:58:40 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+07/17/2019 12:58:41 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+07/17/2019 12:58:41 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+07/17/2019 12:58:41 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+07/17/2019 12:58:41 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+07/17/2019 12:58:41 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+07/17/2019 12:58:42 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+07/17/2019 12:58:42 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+07/17/2019 12:58:42 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+07/17/2019 12:58:42 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+07/17/2019 12:58:42 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+07/17/2019 12:58:43 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+07/17/2019 12:58:49 AM - DesktopOrder - INFO: Element found with locator: list-view and  locatorType: id
+07/17/2019 12:58:49 AM - DesktopOrder - INFO: Clicked on element with locator: list-view locatorType: id
+07/17/2019 12:58:49 AM - DesktopOrder - INFO: Element found with locator: input-sort and  locatorType: id
+07/17/2019 12:58:50 AM - DesktopOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] and  locatorType: xpath
+07/17/2019 12:58:51 AM - DesktopOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] locatorType: xpath
+07/17/2019 12:58:51 AM - DesktopOrder - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/17/2019 12:58:51 AM - DesktopOrder - INFO: Element appeared on the web page
+07/17/2019 12:58:51 AM - DesktopOrder - INFO: Element is displayed
+07/17/2019 12:58:51 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Added to cart
+07/17/2019 12:58:51 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'The Ninja Store')] and  locatorType: xpath
+07/17/2019 12:58:52 AM - DesktopOrder - INFO: Clicked on element with locator: //a[contains(text(),'The Ninja Store')] locatorType: xpath
+07/17/2019 12:58:52 AM - DesktopOrder - INFO: Element found with locator: //span[@id='cart-total'] and  locatorType: xpath
+07/17/2019 12:58:52 AM - DesktopOrder - INFO: Clicked on element with locator: //span[@id='cart-total'] locatorType: xpath
+07/17/2019 12:58:52 AM - DesktopOrder - INFO: Element found with locator: //strong[contains(text(),'View Cart')] and  locatorType: xpath
+07/17/2019 12:58:53 AM - DesktopOrder - INFO: Clicked on element with locator: //strong[contains(text(),'View Cart')] locatorType: xpath
+07/17/2019 12:58:53 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'Estimate Shipping & Taxes')] and  locatorType: xpath
+07/17/2019 12:58:53 AM - DesktopOrder - INFO: Clicked on element with locator: //a[contains(text(),'Estimate Shipping & Taxes')] locatorType: xpath
+07/17/2019 12:58:53 AM - DesktopOrder - INFO: Element found with locator: input-country and  locatorType: id
+07/17/2019 12:58:53 AM - DesktopOrder - INFO: Element found with locator: input-zone and  locatorType: id
+07/17/2019 12:58:54 AM - DesktopOrder - INFO: Element found with locator: input-postcode and  locatorType: id
+07/17/2019 12:58:54 AM - DesktopOrder - INFO: Sent data on element with locator: input-postcode locatorType: id
+07/17/2019 12:58:54 AM - DesktopOrder - INFO: Element found with locator: button-quote and  locatorType: id
+07/17/2019 12:58:54 AM - DesktopOrder - INFO: Clicked on element with locator: button-quote locatorType: id
+07/17/2019 12:58:54 AM - DesktopOrder - INFO: Element found with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] and  locatorType: xpath
+07/17/2019 12:58:54 AM - DesktopOrder - INFO: Clicked on element with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] locatorType: xpath
+07/17/2019 12:58:54 AM - DesktopOrder - INFO: Element found with locator: button-shipping and  locatorType: id
+07/17/2019 12:58:55 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping locatorType: id
+07/17/2019 12:58:57 AM - DesktopOrder - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/17/2019 12:58:59 AM - DesktopOrder - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/17/2019 12:58:59 AM - DesktopOrder - INFO: Element found with locator: //div[3]//label[1]//input[1] and  locatorType: xpath
+07/17/2019 12:58:59 AM - DesktopOrder - INFO: Clicked on element with locator: //div[3]//label[1]//input[1] locatorType: xpath
+07/17/2019 12:58:59 AM - DesktopOrder - INFO: Element found with locator: input-payment-firstname and  locatorType: id
+07/17/2019 12:59:00 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-firstname locatorType: id
+07/17/2019 12:59:00 AM - DesktopOrder - INFO: Element found with locator: input-payment-lastname and  locatorType: id
+07/17/2019 12:59:00 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-lastname locatorType: id
+07/17/2019 12:59:00 AM - DesktopOrder - INFO: Element found with locator: input-payment-address-1 and  locatorType: id
+07/17/2019 12:59:00 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-address-1 locatorType: id
+07/17/2019 12:59:00 AM - DesktopOrder - INFO: Element found with locator: input-payment-city and  locatorType: id
+07/17/2019 12:59:00 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-city locatorType: id
+07/17/2019 12:59:00 AM - DesktopOrder - INFO: Element found with locator: input-payment-postcode and  locatorType: id
+07/17/2019 12:59:01 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-postcode locatorType: id
+07/17/2019 12:59:01 AM - DesktopOrder - INFO: Element found with locator: input-payment-country and  locatorType: id
+07/17/2019 12:59:01 AM - DesktopOrder - INFO: Element found with locator: input-payment-zone and  locatorType: id
+07/17/2019 12:59:01 AM - DesktopOrder - INFO: Element found with locator: //input[@id='button-payment-address'] and  locatorType: xpath
+07/17/2019 12:59:01 AM - DesktopOrder - INFO: Clicked on element with locator: //input[@id='button-payment-address'] locatorType: xpath
+07/17/2019 12:59:02 AM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+07/17/2019 12:59:02 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+07/17/2019 12:59:02 AM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+07/17/2019 12:59:03 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+07/17/2019 12:59:03 AM - DesktopOrder - INFO: Element found with locator: comment and  locatorType: name
+07/17/2019 12:59:04 AM - DesktopOrder - INFO: Clicked on element with locator: comment locatorType: name
+07/17/2019 12:59:04 AM - DesktopOrder - INFO: Element found with locator: button-shipping-method and  locatorType: id
+07/17/2019 12:59:04 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-method locatorType: id
+07/17/2019 12:59:05 AM - DesktopOrder - INFO: Element found with locator: agree and  locatorType: name
+07/17/2019 12:59:05 AM - DesktopOrder - INFO: Clicked on element with locator: agree locatorType: name
+07/17/2019 12:59:05 AM - DesktopOrder - INFO: Element found with locator: button-payment-method and  locatorType: id
+07/17/2019 12:59:05 AM - DesktopOrder - INFO: Clicked on element with locator: button-payment-method locatorType: id
+07/17/2019 12:59:06 AM - DesktopOrder - INFO: Element found with locator: button-confirm and  locatorType: id
+07/17/2019 12:59:06 AM - DesktopOrder - INFO: Clicked on element with locator: button-confirm locatorType: id
+07/17/2019 12:59:08 AM - Util - INFO: Actual Text From Application Web UI --> :: Your order has been placed!
+07/17/2019 12:59:08 AM - Util - INFO: Expected Text From Application Web UI --> :: Your order has been placed!
+07/17/2019 12:59:08 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+07/17/2019 12:59:08 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Order Verification
+07/17/2019 12:59:08 AM - ResultStatus - INFO: Verifying the order placed successfully ### TEST SUCCESSFUL
+07/17/2019 12:59:12 AM - DesktopOrder - INFO: Element found with locator: list-view and  locatorType: id
+07/17/2019 12:59:12 AM - DesktopOrder - INFO: Clicked on element with locator: list-view locatorType: id
+07/17/2019 12:59:12 AM - DesktopOrder - INFO: Element found with locator: input-sort and  locatorType: id
+07/17/2019 12:59:13 AM - DesktopOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] and  locatorType: xpath
+07/17/2019 12:59:13 AM - DesktopOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] locatorType: xpath
+07/17/2019 12:59:13 AM - DesktopOrder - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/17/2019 12:59:13 AM - DesktopOrder - INFO: Element appeared on the web page
+07/17/2019 12:59:13 AM - DesktopOrder - INFO: Element is displayed
+07/17/2019 12:59:13 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Added to cart
+07/17/2019 12:59:13 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'The Ninja Store')] and  locatorType: xpath
+07/17/2019 12:59:13 AM - DesktopOrder - INFO: Cannot click on the element with locator: //a[contains(text(),'The Ninja Store')] locatorType: xpath
+07/17/2019 12:59:13 AM - DesktopOrder - INFO: Element found with locator: //span[@id='cart-total'] and  locatorType: xpath
+07/17/2019 12:59:14 AM - DesktopOrder - INFO: Clicked on element with locator: //span[@id='cart-total'] locatorType: xpath
+07/17/2019 12:59:14 AM - DesktopOrder - INFO: Element found with locator: //strong[contains(text(),'View Cart')] and  locatorType: xpath
+07/17/2019 12:59:14 AM - DesktopOrder - INFO: Clicked on element with locator: //strong[contains(text(),'View Cart')] locatorType: xpath
+07/17/2019 12:59:14 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'Estimate Shipping & Taxes')] and  locatorType: xpath
+07/17/2019 12:59:15 AM - DesktopOrder - INFO: Clicked on element with locator: //a[contains(text(),'Estimate Shipping & Taxes')] locatorType: xpath
+07/17/2019 12:59:15 AM - DesktopOrder - INFO: Element found with locator: input-country and  locatorType: id
+07/17/2019 12:59:15 AM - DesktopOrder - INFO: Element found with locator: input-zone and  locatorType: id
+07/17/2019 12:59:15 AM - DesktopOrder - INFO: Element found with locator: input-postcode and  locatorType: id
+07/17/2019 12:59:15 AM - DesktopOrder - INFO: Sent data on element with locator: input-postcode locatorType: id
+07/17/2019 12:59:15 AM - DesktopOrder - INFO: Element found with locator: button-quote and  locatorType: id
+07/17/2019 12:59:15 AM - DesktopOrder - INFO: Clicked on element with locator: button-quote locatorType: id
+07/17/2019 12:59:16 AM - DesktopOrder - INFO: Element found with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] and  locatorType: xpath
+07/17/2019 12:59:16 AM - DesktopOrder - INFO: Clicked on element with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] locatorType: xpath
+07/17/2019 12:59:16 AM - DesktopOrder - INFO: Element found with locator: button-shipping and  locatorType: id
+07/17/2019 12:59:16 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping locatorType: id
+07/17/2019 12:59:18 AM - DesktopOrder - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/17/2019 12:59:19 AM - DesktopOrder - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/17/2019 12:59:19 AM - DesktopOrder - INFO: Element found with locator: //div[3]//label[1]//input[1] and  locatorType: xpath
+07/17/2019 12:59:20 AM - DesktopOrder - INFO: Clicked on element with locator: //div[3]//label[1]//input[1] locatorType: xpath
+07/17/2019 12:59:20 AM - DesktopOrder - INFO: Element found with locator: input-payment-firstname and  locatorType: id
+07/17/2019 12:59:20 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-firstname locatorType: id
+07/17/2019 12:59:20 AM - DesktopOrder - INFO: Element found with locator: input-payment-lastname and  locatorType: id
+07/17/2019 12:59:20 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-lastname locatorType: id
+07/17/2019 12:59:20 AM - DesktopOrder - INFO: Element found with locator: input-payment-address-1 and  locatorType: id
+07/17/2019 12:59:21 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-address-1 locatorType: id
+07/17/2019 12:59:21 AM - DesktopOrder - INFO: Element found with locator: input-payment-city and  locatorType: id
+07/17/2019 12:59:21 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-city locatorType: id
+07/17/2019 12:59:21 AM - DesktopOrder - INFO: Element found with locator: input-payment-postcode and  locatorType: id
+07/17/2019 12:59:21 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-postcode locatorType: id
+07/17/2019 12:59:21 AM - DesktopOrder - INFO: Element found with locator: input-payment-country and  locatorType: id
+07/17/2019 12:59:21 AM - DesktopOrder - INFO: Element found with locator: input-payment-zone and  locatorType: id
+07/17/2019 12:59:22 AM - DesktopOrder - INFO: Element found with locator: //input[@id='button-payment-address'] and  locatorType: xpath
+07/17/2019 12:59:22 AM - DesktopOrder - INFO: Clicked on element with locator: //input[@id='button-payment-address'] locatorType: xpath
+07/17/2019 12:59:22 AM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+07/17/2019 12:59:23 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+07/17/2019 12:59:23 AM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+07/17/2019 12:59:23 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+07/17/2019 12:59:23 AM - DesktopOrder - INFO: Element found with locator: comment and  locatorType: name
+07/17/2019 12:59:24 AM - DesktopOrder - INFO: Clicked on element with locator: comment locatorType: name
+07/17/2019 12:59:24 AM - DesktopOrder - INFO: Element found with locator: button-shipping-method and  locatorType: id
+07/17/2019 12:59:24 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-method locatorType: id
+07/17/2019 12:59:25 AM - DesktopOrder - INFO: Element found with locator: agree and  locatorType: name
+07/17/2019 12:59:25 AM - DesktopOrder - INFO: Clicked on element with locator: agree locatorType: name
+07/17/2019 12:59:25 AM - DesktopOrder - INFO: Element found with locator: button-payment-method and  locatorType: id
+07/17/2019 12:59:25 AM - DesktopOrder - INFO: Clicked on element with locator: button-payment-method locatorType: id
+07/17/2019 12:59:26 AM - DesktopOrder - INFO: Element found with locator: button-confirm and  locatorType: id
+07/17/2019 12:59:26 AM - DesktopOrder - INFO: Clicked on element with locator: button-confirm locatorType: id
+07/17/2019 12:59:28 AM - Util - INFO: Actual Text From Application Web UI --> :: Your order has been placed!
+07/17/2019 12:59:28 AM - Util - INFO: Expected Text From Application Web UI --> :: Your order has been placed!
+07/17/2019 12:59:28 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+07/17/2019 12:59:28 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Order Verification
+07/17/2019 12:59:28 AM - ResultStatus - INFO: Verifying the order placed successfully ### TEST SUCCESSFUL
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+07/17/2019 01:07:30 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+07/17/2019 01:07:30 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+07/17/2019 01:07:30 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+07/17/2019 01:07:31 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+07/17/2019 01:07:31 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+07/17/2019 01:07:31 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+07/17/2019 01:07:31 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+07/17/2019 01:07:31 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+07/17/2019 01:07:31 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+07/17/2019 01:07:31 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+07/17/2019 01:07:31 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+07/17/2019 01:07:32 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+07/17/2019 01:07:39 AM - DesktopOrder - INFO: Element found with locator: list-view and  locatorType: id
+07/17/2019 01:07:39 AM - DesktopOrder - INFO: Clicked on element with locator: list-view locatorType: id
+07/17/2019 01:07:39 AM - DesktopOrder - INFO: Element found with locator: input-sort and  locatorType: id
+07/17/2019 01:07:40 AM - DesktopOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] and  locatorType: xpath
+07/17/2019 01:07:40 AM - DesktopOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] locatorType: xpath
+07/17/2019 01:07:40 AM - DesktopOrder - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/17/2019 01:07:40 AM - DesktopOrder - INFO: Element appeared on the web page
+07/17/2019 01:07:40 AM - DesktopOrder - INFO: Element is displayed
+07/17/2019 01:07:40 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Added to cart
+07/17/2019 01:07:40 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'The Ninja Store')] and  locatorType: xpath
+07/17/2019 01:07:40 AM - DesktopOrder - INFO: Cannot click on the element with locator: //a[contains(text(),'The Ninja Store')] locatorType: xpath
+07/17/2019 01:07:41 AM - DesktopOrder - INFO: Element found with locator: //span[@id='cart-total'] and  locatorType: xpath
+07/17/2019 01:07:41 AM - DesktopOrder - INFO: Clicked on element with locator: //span[@id='cart-total'] locatorType: xpath
+07/17/2019 01:07:41 AM - DesktopOrder - INFO: Element found with locator: //strong[contains(text(),'View Cart')] and  locatorType: xpath
+07/17/2019 01:07:41 AM - DesktopOrder - INFO: Clicked on element with locator: //strong[contains(text(),'View Cart')] locatorType: xpath
+07/17/2019 01:07:44 AM - DesktopOrder - INFO: Element not found with locator: //a[contains(text(),'Estimate Shipping & Taxes')] and  locatorType: xpath
+07/17/2019 01:07:44 AM - DesktopOrder - INFO: Cannot click on the element with locator: //a[contains(text(),'Estimate Shipping & Taxes')] locatorType: xpath
+07/17/2019 01:07:47 AM - DesktopOrder - INFO: Element not found with locator: input-country and  locatorType: id
+07/17/2019 01:07:50 AM - DesktopOrder - INFO: Element found with locator: list-view and  locatorType: id
+07/17/2019 01:07:50 AM - DesktopOrder - INFO: Clicked on element with locator: list-view locatorType: id
+07/17/2019 01:07:50 AM - DesktopOrder - INFO: Element found with locator: input-sort and  locatorType: id
+07/17/2019 01:07:51 AM - DesktopOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] and  locatorType: xpath
+07/17/2019 01:07:51 AM - DesktopOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] locatorType: xpath
+07/17/2019 01:07:51 AM - DesktopOrder - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/17/2019 01:07:52 AM - DesktopOrder - INFO: Element appeared on the web page
+07/17/2019 01:07:52 AM - DesktopOrder - INFO: Element is displayed
+07/17/2019 01:07:52 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Added to cart
+07/17/2019 01:07:52 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'The Ninja Store')] and  locatorType: xpath
+07/17/2019 01:07:52 AM - DesktopOrder - INFO: Clicked on element with locator: //a[contains(text(),'The Ninja Store')] locatorType: xpath
+07/17/2019 01:07:52 AM - DesktopOrder - INFO: Element found with locator: //span[@id='cart-total'] and  locatorType: xpath
+07/17/2019 01:07:52 AM - DesktopOrder - INFO: Clicked on element with locator: //span[@id='cart-total'] locatorType: xpath
+07/17/2019 01:07:52 AM - DesktopOrder - INFO: Element found with locator: //strong[contains(text(),'View Cart')] and  locatorType: xpath
+07/17/2019 01:07:53 AM - DesktopOrder - INFO: Clicked on element with locator: //strong[contains(text(),'View Cart')] locatorType: xpath
+07/17/2019 01:07:53 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'Estimate Shipping & Taxes')] and  locatorType: xpath
+07/17/2019 01:07:53 AM - DesktopOrder - INFO: Clicked on element with locator: //a[contains(text(),'Estimate Shipping & Taxes')] locatorType: xpath
+07/17/2019 01:07:53 AM - DesktopOrder - INFO: Element found with locator: input-country and  locatorType: id
+07/17/2019 01:07:54 AM - DesktopOrder - INFO: Element found with locator: input-zone and  locatorType: id
+07/17/2019 01:07:54 AM - DesktopOrder - INFO: Element found with locator: input-postcode and  locatorType: id
+07/17/2019 01:07:54 AM - DesktopOrder - INFO: Sent data on element with locator: input-postcode locatorType: id
+07/17/2019 01:07:54 AM - DesktopOrder - INFO: Element found with locator: button-quote and  locatorType: id
+07/17/2019 01:07:54 AM - DesktopOrder - INFO: Clicked on element with locator: button-quote locatorType: id
+07/17/2019 01:07:54 AM - DesktopOrder - INFO: Element found with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] and  locatorType: xpath
+07/17/2019 01:07:54 AM - DesktopOrder - INFO: Clicked on element with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] locatorType: xpath
+07/17/2019 01:07:55 AM - DesktopOrder - INFO: Element found with locator: button-shipping and  locatorType: id
+07/17/2019 01:07:55 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping locatorType: id
+07/17/2019 01:07:57 AM - DesktopOrder - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/17/2019 01:07:59 AM - DesktopOrder - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/17/2019 01:07:59 AM - DesktopOrder - INFO: Element found with locator: //div[3]//label[1]//input[1] and  locatorType: xpath
+07/17/2019 01:07:59 AM - DesktopOrder - INFO: Clicked on element with locator: //div[3]//label[1]//input[1] locatorType: xpath
+07/17/2019 01:08:00 AM - DesktopOrder - INFO: Element found with locator: input-payment-firstname and  locatorType: id
+07/17/2019 01:08:00 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-firstname locatorType: id
+07/17/2019 01:08:00 AM - DesktopOrder - INFO: Element found with locator: input-payment-lastname and  locatorType: id
+07/17/2019 01:08:00 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-lastname locatorType: id
+07/17/2019 01:08:00 AM - DesktopOrder - INFO: Element found with locator: input-payment-address-1 and  locatorType: id
+07/17/2019 01:08:00 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-address-1 locatorType: id
+07/17/2019 01:08:00 AM - DesktopOrder - INFO: Element found with locator: input-payment-city and  locatorType: id
+07/17/2019 01:08:01 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-city locatorType: id
+07/17/2019 01:08:01 AM - DesktopOrder - INFO: Element found with locator: input-payment-postcode and  locatorType: id
+07/17/2019 01:08:01 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-postcode locatorType: id
+07/17/2019 01:08:01 AM - DesktopOrder - INFO: Element found with locator: input-payment-country and  locatorType: id
+07/17/2019 01:08:01 AM - DesktopOrder - INFO: Element found with locator: input-payment-zone and  locatorType: id
+07/17/2019 01:08:02 AM - DesktopOrder - INFO: Element found with locator: //input[@id='button-payment-address'] and  locatorType: xpath
+07/17/2019 01:08:02 AM - DesktopOrder - INFO: Clicked on element with locator: //input[@id='button-payment-address'] locatorType: xpath
+07/17/2019 01:08:03 AM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+07/17/2019 01:08:03 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+07/17/2019 01:08:03 AM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+07/17/2019 01:08:03 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+07/17/2019 01:08:04 AM - DesktopOrder - INFO: Element found with locator: comment and  locatorType: name
+07/17/2019 01:08:04 AM - DesktopOrder - INFO: Clicked on element with locator: comment locatorType: name
+07/17/2019 01:08:04 AM - DesktopOrder - INFO: Element found with locator: button-shipping-method and  locatorType: id
+07/17/2019 01:08:04 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-method locatorType: id
+07/17/2019 01:08:05 AM - DesktopOrder - INFO: Element found with locator: agree and  locatorType: name
+07/17/2019 01:08:05 AM - DesktopOrder - INFO: Clicked on element with locator: agree locatorType: name
+07/17/2019 01:08:05 AM - DesktopOrder - INFO: Element found with locator: button-payment-method and  locatorType: id
+07/17/2019 01:08:05 AM - DesktopOrder - INFO: Clicked on element with locator: button-payment-method locatorType: id
+07/17/2019 01:08:08 AM - DesktopOrder - INFO: Element not found with locator: button-confirm and  locatorType: id
+07/17/2019 01:08:08 AM - DesktopOrder - INFO: Cannot click on the element with locator: button-confirm locatorType: id
+07/17/2019 01:08:10 AM - Util - INFO: Actual Text From Application Web UI --> :: Checkout
+07/17/2019 01:08:10 AM - Util - INFO: Expected Text From Application Web UI --> :: Your order has been placed!
+07/17/2019 01:08:10 AM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+07/17/2019 01:08:10 AM - ResultStatus - ERROR: ### VERIFICATION FAILED :: + Order Verification
+07/17/2019 01:08:11 AM - ResultStatus - INFO: Screenshot save to directory: C:\Users\Abilash\PycharmProjects\AT\base\../screenshots/Order Verification.1563305890929.png
+07/17/2019 01:08:11 AM - ResultStatus - ERROR: Verifying the order placed successfully ### TEST FAILED
+07/17/2019 01:08:25 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+07/17/2019 01:08:26 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+07/17/2019 01:08:26 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+07/17/2019 01:08:27 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+07/17/2019 01:08:27 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+07/17/2019 01:08:27 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+07/17/2019 01:08:27 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+07/17/2019 01:08:28 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+07/17/2019 01:08:28 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+07/17/2019 01:08:28 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+07/17/2019 01:08:28 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+07/17/2019 01:08:29 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+07/17/2019 01:08:36 AM - DesktopOrder - INFO: Element found with locator: list-view and  locatorType: id
+07/17/2019 01:08:36 AM - DesktopOrder - INFO: Clicked on element with locator: list-view locatorType: id
+07/17/2019 01:08:36 AM - DesktopOrder - INFO: Element found with locator: input-sort and  locatorType: id
+07/17/2019 01:08:37 AM - DesktopOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] and  locatorType: xpath
+07/17/2019 01:08:38 AM - DesktopOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] locatorType: xpath
+07/17/2019 01:08:38 AM - DesktopOrder - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/17/2019 01:08:38 AM - DesktopOrder - INFO: Element appeared on the web page
+07/17/2019 01:08:38 AM - DesktopOrder - INFO: Element is displayed
+07/17/2019 01:08:38 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Added to cart
+07/17/2019 01:08:38 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'The Ninja Store')] and  locatorType: xpath
+07/17/2019 01:08:39 AM - DesktopOrder - INFO: Clicked on element with locator: //a[contains(text(),'The Ninja Store')] locatorType: xpath
+07/17/2019 01:08:39 AM - DesktopOrder - INFO: Element found with locator: //span[@id='cart-total'] and  locatorType: xpath
+07/17/2019 01:08:40 AM - DesktopOrder - INFO: Clicked on element with locator: //span[@id='cart-total'] locatorType: xpath
+07/17/2019 01:08:40 AM - DesktopOrder - INFO: Element found with locator: //strong[contains(text(),'View Cart')] and  locatorType: xpath
+07/17/2019 01:08:41 AM - DesktopOrder - INFO: Clicked on element with locator: //strong[contains(text(),'View Cart')] locatorType: xpath
+07/17/2019 01:08:41 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'Estimate Shipping & Taxes')] and  locatorType: xpath
+07/17/2019 01:08:41 AM - DesktopOrder - INFO: Clicked on element with locator: //a[contains(text(),'Estimate Shipping & Taxes')] locatorType: xpath
+07/17/2019 01:08:41 AM - DesktopOrder - INFO: Element found with locator: input-country and  locatorType: id
+07/17/2019 01:08:42 AM - DesktopOrder - INFO: Element found with locator: input-zone and  locatorType: id
+07/17/2019 01:08:42 AM - DesktopOrder - INFO: Element found with locator: input-postcode and  locatorType: id
+07/17/2019 01:08:42 AM - DesktopOrder - INFO: Sent data on element with locator: input-postcode locatorType: id
+07/17/2019 01:08:42 AM - DesktopOrder - INFO: Element found with locator: button-quote and  locatorType: id
+07/17/2019 01:08:42 AM - DesktopOrder - INFO: Clicked on element with locator: button-quote locatorType: id
+07/17/2019 01:08:43 AM - DesktopOrder - INFO: Element found with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] and  locatorType: xpath
+07/17/2019 01:08:43 AM - DesktopOrder - INFO: Clicked on element with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] locatorType: xpath
+07/17/2019 01:08:43 AM - DesktopOrder - INFO: Element found with locator: button-shipping and  locatorType: id
+07/17/2019 01:08:43 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping locatorType: id
+07/17/2019 01:08:45 AM - DesktopOrder - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/17/2019 01:08:47 AM - DesktopOrder - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/17/2019 01:08:48 AM - DesktopOrder - INFO: Element found with locator: //div[3]//label[1]//input[1] and  locatorType: xpath
+07/17/2019 01:08:48 AM - DesktopOrder - INFO: Clicked on element with locator: //div[3]//label[1]//input[1] locatorType: xpath
+07/17/2019 01:08:48 AM - DesktopOrder - INFO: Element found with locator: input-payment-firstname and  locatorType: id
+07/17/2019 01:08:48 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-firstname locatorType: id
+07/17/2019 01:08:48 AM - DesktopOrder - INFO: Element found with locator: input-payment-lastname and  locatorType: id
+07/17/2019 01:08:49 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-lastname locatorType: id
+07/17/2019 01:08:49 AM - DesktopOrder - INFO: Element found with locator: input-payment-address-1 and  locatorType: id
+07/17/2019 01:08:49 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-address-1 locatorType: id
+07/17/2019 01:08:49 AM - DesktopOrder - INFO: Element found with locator: input-payment-city and  locatorType: id
+07/17/2019 01:08:49 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-city locatorType: id
+07/17/2019 01:08:49 AM - DesktopOrder - INFO: Element found with locator: input-payment-postcode and  locatorType: id
+07/17/2019 01:08:50 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-postcode locatorType: id
+07/17/2019 01:08:50 AM - DesktopOrder - INFO: Element found with locator: input-payment-country and  locatorType: id
+07/17/2019 01:08:50 AM - DesktopOrder - INFO: Element found with locator: input-payment-zone and  locatorType: id
+07/17/2019 01:08:51 AM - DesktopOrder - INFO: Element found with locator: //input[@id='button-payment-address'] and  locatorType: xpath
+07/17/2019 01:08:51 AM - DesktopOrder - INFO: Clicked on element with locator: //input[@id='button-payment-address'] locatorType: xpath
+07/17/2019 01:08:51 AM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+07/17/2019 01:08:52 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+07/17/2019 01:08:52 AM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+07/17/2019 01:08:52 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+07/17/2019 01:08:53 AM - DesktopOrder - INFO: Element found with locator: comment and  locatorType: name
+07/17/2019 01:08:53 AM - DesktopOrder - INFO: Clicked on element with locator: comment locatorType: name
+07/17/2019 01:08:53 AM - DesktopOrder - INFO: Element found with locator: button-shipping-method and  locatorType: id
+07/17/2019 01:08:53 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-method locatorType: id
+07/17/2019 01:08:54 AM - DesktopOrder - INFO: Element found with locator: agree and  locatorType: name
+07/17/2019 01:08:54 AM - DesktopOrder - INFO: Clicked on element with locator: agree locatorType: name
+07/17/2019 01:08:54 AM - DesktopOrder - INFO: Element found with locator: button-payment-method and  locatorType: id
+07/17/2019 01:08:54 AM - DesktopOrder - INFO: Clicked on element with locator: button-payment-method locatorType: id
+07/17/2019 01:08:55 AM - DesktopOrder - INFO: Element found with locator: button-confirm and  locatorType: id
+07/17/2019 01:08:56 AM - DesktopOrder - INFO: Clicked on element with locator: button-confirm locatorType: id
+07/17/2019 01:08:58 AM - Util - INFO: Actual Text From Application Web UI --> :: Your order has been placed!
+07/17/2019 01:08:58 AM - Util - INFO: Expected Text From Application Web UI --> :: Your order has been placed!
+07/17/2019 01:08:58 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+07/17/2019 01:08:58 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Order Verification
+07/17/2019 01:08:58 AM - ResultStatus - INFO: Verifying the order placed successfully ### TEST SUCCESSFUL
+07/17/2019 01:09:03 AM - DesktopOrder - INFO: Element not found with locator: list-view and  locatorType: id
+07/17/2019 01:09:03 AM - DesktopOrder - INFO: Cannot click on the element with locator: list-view locatorType: id
+07/17/2019 01:09:06 AM - DesktopOrder - INFO: Element not found with locator: input-sort and  locatorType: id
+07/17/2019 01:09:24 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+07/17/2019 01:09:24 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+07/17/2019 01:09:24 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+07/17/2019 01:09:25 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+07/17/2019 01:09:25 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+07/17/2019 01:09:25 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+07/17/2019 01:09:25 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+07/17/2019 01:09:26 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+07/17/2019 01:09:26 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+07/17/2019 01:09:26 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+07/17/2019 01:09:26 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+07/17/2019 01:09:27 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+07/17/2019 01:09:34 AM - DesktopOrder - INFO: Element found with locator: list-view and  locatorType: id
+07/17/2019 01:09:34 AM - DesktopOrder - INFO: Clicked on element with locator: list-view locatorType: id
+07/17/2019 01:09:34 AM - DesktopOrder - INFO: Element found with locator: input-sort and  locatorType: id
+07/17/2019 01:09:35 AM - DesktopOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] and  locatorType: xpath
+07/17/2019 01:09:35 AM - DesktopOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] locatorType: xpath
+07/17/2019 01:09:35 AM - DesktopOrder - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/17/2019 01:09:36 AM - DesktopOrder - INFO: Element appeared on the web page
+07/17/2019 01:09:36 AM - DesktopOrder - INFO: Element is displayed
+07/17/2019 01:09:36 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Added to cart
+07/17/2019 01:09:36 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'The Ninja Store')] and  locatorType: xpath
+07/17/2019 01:09:36 AM - DesktopOrder - INFO: Clicked on element with locator: //a[contains(text(),'The Ninja Store')] locatorType: xpath
+07/17/2019 01:09:36 AM - DesktopOrder - INFO: Element found with locator: //span[@id='cart-total'] and  locatorType: xpath
+07/17/2019 01:09:37 AM - DesktopOrder - INFO: Clicked on element with locator: //span[@id='cart-total'] locatorType: xpath
+07/17/2019 01:09:37 AM - DesktopOrder - INFO: Element found with locator: //strong[contains(text(),'View Cart')] and  locatorType: xpath
+07/17/2019 01:09:38 AM - DesktopOrder - INFO: Clicked on element with locator: //strong[contains(text(),'View Cart')] locatorType: xpath
+07/17/2019 01:09:38 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'Estimate Shipping & Taxes')] and  locatorType: xpath
+07/17/2019 01:09:38 AM - DesktopOrder - INFO: Clicked on element with locator: //a[contains(text(),'Estimate Shipping & Taxes')] locatorType: xpath
+07/17/2019 01:09:38 AM - DesktopOrder - INFO: Element found with locator: input-country and  locatorType: id
+07/17/2019 01:09:38 AM - DesktopOrder - INFO: Element found with locator: input-zone and  locatorType: id
+07/17/2019 01:09:38 AM - DesktopOrder - INFO: Element found with locator: input-postcode and  locatorType: id
+07/17/2019 01:09:39 AM - DesktopOrder - INFO: Sent data on element with locator: input-postcode locatorType: id
+07/17/2019 01:09:39 AM - DesktopOrder - INFO: Element found with locator: button-quote and  locatorType: id
+07/17/2019 01:09:39 AM - DesktopOrder - INFO: Clicked on element with locator: button-quote locatorType: id
+07/17/2019 01:09:40 AM - DesktopOrder - INFO: Element found with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] and  locatorType: xpath
+07/17/2019 01:09:40 AM - DesktopOrder - INFO: Clicked on element with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] locatorType: xpath
+07/17/2019 01:09:40 AM - DesktopOrder - INFO: Element found with locator: button-shipping and  locatorType: id
+07/17/2019 01:09:40 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping locatorType: id
+07/17/2019 01:09:42 AM - DesktopOrder - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/17/2019 01:09:44 AM - DesktopOrder - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/17/2019 01:09:45 AM - DesktopOrder - INFO: Element found with locator: //div[3]//label[1]//input[1] and  locatorType: xpath
+07/17/2019 01:09:45 AM - DesktopOrder - INFO: Clicked on element with locator: //div[3]//label[1]//input[1] locatorType: xpath
+07/17/2019 01:09:45 AM - DesktopOrder - INFO: Element found with locator: input-payment-firstname and  locatorType: id
+07/17/2019 01:09:46 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-firstname locatorType: id
+07/17/2019 01:09:46 AM - DesktopOrder - INFO: Element found with locator: input-payment-lastname and  locatorType: id
+07/17/2019 01:09:46 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-lastname locatorType: id
+07/17/2019 01:09:46 AM - DesktopOrder - INFO: Element found with locator: input-payment-address-1 and  locatorType: id
+07/17/2019 01:09:47 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-address-1 locatorType: id
+07/17/2019 01:09:47 AM - DesktopOrder - INFO: Element found with locator: input-payment-city and  locatorType: id
+07/17/2019 01:09:47 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-city locatorType: id
+07/17/2019 01:09:47 AM - DesktopOrder - INFO: Element found with locator: input-payment-postcode and  locatorType: id
+07/17/2019 01:09:48 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-postcode locatorType: id
+07/17/2019 01:09:48 AM - DesktopOrder - INFO: Element found with locator: input-payment-country and  locatorType: id
+07/17/2019 01:09:48 AM - DesktopOrder - INFO: Element found with locator: input-payment-zone and  locatorType: id
+07/17/2019 01:09:49 AM - DesktopOrder - INFO: Element found with locator: //input[@id='button-payment-address'] and  locatorType: xpath
+07/17/2019 01:09:49 AM - DesktopOrder - INFO: Clicked on element with locator: //input[@id='button-payment-address'] locatorType: xpath
+07/17/2019 01:09:50 AM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+07/17/2019 01:09:51 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+07/17/2019 01:09:51 AM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+07/17/2019 01:09:51 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+07/17/2019 01:09:52 AM - DesktopOrder - INFO: Element found with locator: comment and  locatorType: name
+07/17/2019 01:09:52 AM - DesktopOrder - INFO: Clicked on element with locator: comment locatorType: name
+07/17/2019 01:09:52 AM - DesktopOrder - INFO: Element found with locator: button-shipping-method and  locatorType: id
+07/17/2019 01:09:53 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-method locatorType: id
+07/17/2019 01:09:53 AM - DesktopOrder - INFO: Element found with locator: agree and  locatorType: name
+07/17/2019 01:09:54 AM - DesktopOrder - INFO: Clicked on element with locator: agree locatorType: name
+07/17/2019 01:09:54 AM - DesktopOrder - INFO: Element found with locator: button-payment-method and  locatorType: id
+07/17/2019 01:09:54 AM - DesktopOrder - INFO: Clicked on element with locator: button-payment-method locatorType: id
+07/17/2019 01:09:55 AM - DesktopOrder - INFO: Element found with locator: button-confirm and  locatorType: id
+07/17/2019 01:09:55 AM - DesktopOrder - INFO: Clicked on element with locator: button-confirm locatorType: id
+07/17/2019 01:09:57 AM - Util - INFO: Actual Text From Application Web UI --> :: Your order has been placed!
+07/17/2019 01:09:57 AM - Util - INFO: Expected Text From Application Web UI --> :: Your order has been placed!
+07/17/2019 01:09:57 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+07/17/2019 01:09:57 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Order Verification
+07/17/2019 01:09:57 AM - ResultStatus - INFO: Verifying the order placed successfully ### TEST SUCCESSFUL
+07/17/2019 01:10:00 AM - DesktopOrder - INFO: Element found with locator: list-view and  locatorType: id
+07/17/2019 01:10:00 AM - DesktopOrder - INFO: Clicked on element with locator: list-view locatorType: id
+07/17/2019 01:10:01 AM - DesktopOrder - INFO: Element found with locator: input-sort and  locatorType: id
+07/17/2019 01:10:01 AM - DesktopOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] and  locatorType: xpath
+07/17/2019 01:10:02 AM - DesktopOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] locatorType: xpath
+07/17/2019 01:10:02 AM - DesktopOrder - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/17/2019 01:10:02 AM - DesktopOrder - INFO: Element appeared on the web page
+07/17/2019 01:10:02 AM - DesktopOrder - INFO: Element is displayed
+07/17/2019 01:10:02 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Added to cart
+07/17/2019 01:10:02 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'The Ninja Store')] and  locatorType: xpath
+07/17/2019 01:10:02 AM - DesktopOrder - INFO: Cannot click on the element with locator: //a[contains(text(),'The Ninja Store')] locatorType: xpath
+07/17/2019 01:10:02 AM - DesktopOrder - INFO: Element found with locator: //span[@id='cart-total'] and  locatorType: xpath
+07/17/2019 01:10:03 AM - DesktopOrder - INFO: Clicked on element with locator: //span[@id='cart-total'] locatorType: xpath
+07/17/2019 01:10:03 AM - DesktopOrder - INFO: Element found with locator: //strong[contains(text(),'View Cart')] and  locatorType: xpath
+07/17/2019 01:10:06 AM - DesktopOrder - INFO: Cannot click on the element with locator: //strong[contains(text(),'View Cart')] locatorType: xpath
+07/17/2019 01:10:09 AM - DesktopOrder - INFO: Element not found with locator: //a[contains(text(),'Estimate Shipping & Taxes')] and  locatorType: xpath
+07/17/2019 01:10:09 AM - DesktopOrder - INFO: Cannot click on the element with locator: //a[contains(text(),'Estimate Shipping & Taxes')] locatorType: xpath
+07/17/2019 01:10:12 AM - DesktopOrder - INFO: Element not found with locator: input-country and  locatorType: id
+07/17/2019 01:17:54 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+07/17/2019 01:17:54 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+07/17/2019 01:17:54 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+07/17/2019 01:17:55 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+07/17/2019 01:17:55 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+07/17/2019 01:17:55 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+07/17/2019 01:17:55 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+07/17/2019 01:17:55 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+07/17/2019 01:17:55 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+07/17/2019 01:17:55 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+07/17/2019 01:17:55 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+07/17/2019 01:17:57 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+07/18/2019 09:23:03 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+07/18/2019 09:23:03 PM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+07/18/2019 09:23:03 PM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+07/18/2019 09:23:04 PM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+07/18/2019 09:23:04 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+07/18/2019 09:23:04 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+07/18/2019 09:23:04 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+07/18/2019 09:23:05 PM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+07/18/2019 09:23:05 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+07/18/2019 09:23:05 PM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+07/18/2019 09:23:05 PM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+07/18/2019 09:23:06 PM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+07/18/2019 09:23:13 PM - DesktopOrder - INFO: Element found with locator: list-view and  locatorType: id
+07/18/2019 09:23:14 PM - DesktopOrder - INFO: Clicked on element with locator: list-view locatorType: id
+07/18/2019 09:23:14 PM - DesktopOrder - INFO: Element found with locator: input-sort and  locatorType: id
+07/18/2019 09:23:15 PM - DesktopOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] and  locatorType: xpath
+07/18/2019 09:23:15 PM - DesktopOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] locatorType: xpath
+07/18/2019 09:23:15 PM - DesktopOrder - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/18/2019 09:23:16 PM - DesktopOrder - INFO: Element appeared on the web page
+07/18/2019 09:23:16 PM - DesktopOrder - INFO: Element is displayed
+07/18/2019 09:23:16 PM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Added to cart
+07/18/2019 09:23:16 PM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'The Ninja Store')] and  locatorType: xpath
+07/18/2019 09:23:16 PM - DesktopOrder - INFO: Cannot click on the element with locator: //a[contains(text(),'The Ninja Store')] locatorType: xpath
+07/18/2019 09:23:16 PM - DesktopOrder - INFO: Element found with locator: //span[@id='cart-total'] and  locatorType: xpath
+07/18/2019 09:23:16 PM - DesktopOrder - INFO: Clicked on element with locator: //span[@id='cart-total'] locatorType: xpath
+07/18/2019 09:23:16 PM - DesktopOrder - INFO: Element found with locator: //strong[contains(text(),'View Cart')] and  locatorType: xpath
+07/18/2019 09:23:17 PM - DesktopOrder - INFO: Clicked on element with locator: //strong[contains(text(),'View Cart')] locatorType: xpath
+07/18/2019 09:23:17 PM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'Estimate Shipping & Taxes')] and  locatorType: xpath
+07/18/2019 09:23:17 PM - DesktopOrder - INFO: Clicked on element with locator: //a[contains(text(),'Estimate Shipping & Taxes')] locatorType: xpath
+07/18/2019 09:23:17 PM - DesktopOrder - INFO: Element found with locator: input-country and  locatorType: id
+07/18/2019 09:23:17 PM - DesktopOrder - INFO: Element found with locator: input-zone and  locatorType: id
+07/18/2019 09:23:17 PM - DesktopOrder - INFO: Element found with locator: input-postcode and  locatorType: id
+07/18/2019 09:23:18 PM - DesktopOrder - INFO: Sent data on element with locator: input-postcode locatorType: id
+07/18/2019 09:23:18 PM - DesktopOrder - INFO: Element found with locator: button-quote and  locatorType: id
+07/18/2019 09:23:18 PM - DesktopOrder - INFO: Clicked on element with locator: button-quote locatorType: id
+07/18/2019 09:23:18 PM - DesktopOrder - INFO: Element found with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] and  locatorType: xpath
+07/18/2019 09:23:18 PM - DesktopOrder - INFO: Clicked on element with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] locatorType: xpath
+07/18/2019 09:23:18 PM - DesktopOrder - INFO: Element found with locator: button-shipping and  locatorType: id
+07/18/2019 09:23:19 PM - DesktopOrder - INFO: Clicked on element with locator: button-shipping locatorType: id
+07/18/2019 09:23:21 PM - DesktopOrder - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/18/2019 09:23:23 PM - DesktopOrder - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/18/2019 09:23:24 PM - DesktopOrder - INFO: Element found with locator: //div[3]//label[1]//input[1] and  locatorType: xpath
+07/18/2019 09:23:24 PM - DesktopOrder - INFO: Clicked on element with locator: //div[3]//label[1]//input[1] locatorType: xpath
+07/18/2019 09:23:24 PM - DesktopOrder - INFO: Element found with locator: input-payment-firstname and  locatorType: id
+07/18/2019 09:23:24 PM - DesktopOrder - INFO: Sent data on element with locator: input-payment-firstname locatorType: id
+07/18/2019 09:23:24 PM - DesktopOrder - INFO: Element found with locator: input-payment-lastname and  locatorType: id
+07/18/2019 09:23:24 PM - DesktopOrder - INFO: Sent data on element with locator: input-payment-lastname locatorType: id
+07/18/2019 09:23:24 PM - DesktopOrder - INFO: Element found with locator: input-payment-address-1 and  locatorType: id
+07/18/2019 09:23:25 PM - DesktopOrder - INFO: Sent data on element with locator: input-payment-address-1 locatorType: id
+07/18/2019 09:23:25 PM - DesktopOrder - INFO: Element found with locator: input-payment-city and  locatorType: id
+07/18/2019 09:23:25 PM - DesktopOrder - INFO: Sent data on element with locator: input-payment-city locatorType: id
+07/18/2019 09:23:25 PM - DesktopOrder - INFO: Element found with locator: input-payment-postcode and  locatorType: id
+07/18/2019 09:23:25 PM - DesktopOrder - INFO: Sent data on element with locator: input-payment-postcode locatorType: id
+07/18/2019 09:23:25 PM - DesktopOrder - INFO: Element found with locator: input-payment-country and  locatorType: id
+07/18/2019 09:23:25 PM - DesktopOrder - INFO: Element found with locator: input-payment-zone and  locatorType: id
+07/18/2019 09:23:26 PM - DesktopOrder - INFO: Element found with locator: //input[@id='button-payment-address'] and  locatorType: xpath
+07/18/2019 09:23:26 PM - DesktopOrder - INFO: Clicked on element with locator: //input[@id='button-payment-address'] locatorType: xpath
+07/18/2019 09:23:27 PM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+07/18/2019 09:23:27 PM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+07/18/2019 09:23:27 PM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+07/18/2019 09:23:27 PM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+07/18/2019 09:23:29 PM - DesktopOrder - INFO: Element found with locator: comment and  locatorType: name
+07/18/2019 09:23:29 PM - DesktopOrder - INFO: Clicked on element with locator: comment locatorType: name
+07/18/2019 09:23:29 PM - DesktopOrder - INFO: Element found with locator: button-shipping-method and  locatorType: id
+07/18/2019 09:23:29 PM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-method locatorType: id
+07/18/2019 09:23:30 PM - DesktopOrder - INFO: Element found with locator: agree and  locatorType: name
+07/18/2019 09:23:30 PM - DesktopOrder - INFO: Clicked on element with locator: agree locatorType: name
+07/18/2019 09:23:30 PM - DesktopOrder - INFO: Element found with locator: button-payment-method and  locatorType: id
+07/18/2019 09:23:31 PM - DesktopOrder - INFO: Clicked on element with locator: button-payment-method locatorType: id
+07/18/2019 09:23:32 PM - DesktopOrder - INFO: Element found with locator: button-confirm and  locatorType: id
+07/18/2019 09:23:32 PM - DesktopOrder - INFO: Clicked on element with locator: button-confirm locatorType: id
+07/18/2019 09:23:34 PM - Util - INFO: Actual Text From Application Web UI --> :: Checkout
+07/18/2019 09:23:34 PM - Util - INFO: Expected Text From Application Web UI --> :: Your order has been placed!
+07/18/2019 09:23:34 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+07/18/2019 09:23:34 PM - ResultStatus - ERROR: ### VERIFICATION FAILED :: + Order Verification
+07/18/2019 09:23:34 PM - ResultStatus - INFO: Screenshot save to directory: C:\Users\Abilash\PycharmProjects\AT\base\../screenshots/Order Verification.1563465214553.png
+07/18/2019 09:23:34 PM - ResultStatus - ERROR: Verifying the order placed successfully ### TEST FAILED
